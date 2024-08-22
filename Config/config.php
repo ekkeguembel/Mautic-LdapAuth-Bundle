@@ -51,8 +51,8 @@ return array(
         'ldap_auth_activedirectory_domain' => null,
         'ldap_auth_username_attribute' => 'uid',
         'ldap_auth_email_attribute' => 'mail',
-        'ldap_auth_firstname_attribute' => 'givenname',
+        'ldap_auth_firstname_attribute' => 'givenName',
         'ldap_auth_lastname_attribute' => 'sn',
-        'ldap_auth_fullname_attribute' => 'displayname',
+        'ldap_auth_fullname_attribute' => 'displayName',
     )
 );
